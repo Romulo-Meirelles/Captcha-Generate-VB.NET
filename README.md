@@ -5,5 +5,5 @@ This app is an idea I had to make to authenticate a user to know if it was a rob
 <br><br>
 .NET FRAMEWORK 4.0
 <br><br>
-<img src="/Images/Captcha-Generate-VB.NET/Captcha.gif" Width="900" Height="700">
-<img src="/Images/Captcha-Generate-VB.NET/Captcha_01.png" Width="900" Height="700">
+<img src="/Images/Captcha.gif" Width="900" Height="700">
+<img src="/Images/Captcha_01.png" Width="900" Height="700">
