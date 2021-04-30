@@ -1,4 +1,4 @@
-# Captcha-Generate-VB.NET
+# DLL Gerador de Captcha. Varias aplicações.
 Captcha Generate VB.NET
 
 This app is an idea I had to make to authenticate a user to know if it was a robot or not. This project is free for modifications, ideas and distributions. Make good use!
